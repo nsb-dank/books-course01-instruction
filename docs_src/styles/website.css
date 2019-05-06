@@ -4,7 +4,8 @@ h1 {
 
 h2 {
     margin: 1.3em 0 .7em 0;
-    background-color: #EEE;
+    padding:1em ;
+    background-color: rgb(199, 236, 247);
     text-shadow: 0 1px 0 rgba(255, 255, 255, 0.6);
     line-height: 30px;
 }
